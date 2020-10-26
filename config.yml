@@ -1,0 +1,8 @@
+---
+TestEnvAccount:
+  UserName: test@memorychain.com
+  Password: 123456
+
+ProductionEnvAccount:
+  UserName: production@memorychain.com
+  Password: 12345678
